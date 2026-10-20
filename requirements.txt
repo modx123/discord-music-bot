@@ -1,0 +1,6 @@
+discord.py[voice]
+yt-dlp
+PyNaCl
+aiohttp
+lyricsgenius
+python-dotenv
